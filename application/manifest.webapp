@@ -1,0 +1,23 @@
+{
+  "name": "百度地图",
+  "description": "一个百度地图",
+  "type": "web",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/icon56.png",
+    "112": "/icon112.png"
+  },
+  "developer": {
+    "name": "此店不售此书"
+  },
+  "locales": {
+    "zh-CN": {
+      "name": "地图",
+      "subtitle": "一个地图",
+      "description": "一个地图"
+    }
+  },
+  "default_locale": "zh-CN",
+  "cursor": false,
+  "fullscreen": true
+}
